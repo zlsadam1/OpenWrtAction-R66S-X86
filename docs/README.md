@@ -100,26 +100,20 @@ Selected plug-in configuration, covering common functions such as network accele
 
 ### 📡 Network and Agent
 ```
-CONFIG_PACKAGE_luci-app-ddns-go=y
 CONFIG_PACKAGE_luci-app-homeproxy=y
-CONFIG_PACKAGE_luci-app-mosdns=y
 CONFIG_PACKAGE_luci-app-passwall=y
 CONFIG_PACKAGE_luci-app-passwall2=y
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-nikki=y
-CONFIG_PACKAGE_luci-app-smartdns=y
 CONFIG_PACKAGE_luci-app-ssr-plus=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-udp2raw=y
 CONFIG_PACKAGE_luci-app-udpxy=y
-CONFIG_PACKAGE_luci-app-cloudflared=y
-CONFIG_PACKAGE_luci-app-zerotier=y
 ```
 ### ⚙️ System Management and Tools
 ```
 CONFIG_PACKAGE_luci-app-commands=y
 CONFIG_PACKAGE_luci-app-ramfree=y
-CONFIG_PACKAGE_luci-app-hd-idle=y
 CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-cifs-mount=y
 CONFIG_PACKAGE_luci-app-uhttpd=y
@@ -129,22 +123,17 @@ CONFIG_PACKAGE_luci-app-netspeedtest=y
 CONFIG_PACKAGE_openssh-server=y
 CONFIG_PACKAGE_openssh-sftp-server=y
 CONFIG_PACKAGE_luci-app-vlmcsd=y
-CONFIG_PACKAGE_luci-app-wol=y
-CONFIG_PACKAGE_luci-app-wechatpush=y
 ```
 
 ### 📊 Flow control and monitoring
 ```
 CONFIG_PACKAGE_luci-app-bandix=y
-CONFIG_PACKAGE_luci-app-eqos=y
 CONFIG_PACKAGE_luci-app-firewall=y
-CONFIG_PACKAGE_luci-app-oaf=y
 CONFIG_PACKAGE_luci-app-statistics=y
 CONFIG_PACKAGE_luci-app-vnstat2=y
 ```
 ### 🛡️ Security and Authentication
 ```
-CONFIG_PACKAGE_luci-app-acme=y
 CONFIG_PACKAGE_luci-app-arpbind=y
 CONFIG_PACKAGE_luci-app-banip=y
 ```
