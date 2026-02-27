@@ -13,9 +13,9 @@ lede_value='{"REPO_URL": "https://github.com/coolsnowwolf/lede","REPO_BRANCH": "
 
 openwrt_platforms=(X86)
 
-immortalwrt_platforms=(X86 R66S)
+immortalwrt_platforms=(R66S)
 
-lede_platforms=(X86 R66S)
+lede_platforms=(R66S)
 
 
 copy_backgroundfiles_platforms=(X86 R66S)
