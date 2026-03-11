@@ -1,0 +1,16 @@
+<details> <summary> <b>luci-app-bandix new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+fa749bb|timsaya|Tue Mar 10 11:57:02 2026 +0800|refactor: use wan_tx_rate_limit/wan_rx_rate_limit for schedule rules
+aaf3ef6|timsaya|Mon Mar 9 20:56:41 2026 +0800|Add all TCP states to connection flows state filter
+df69ad2|timsaya|Mon Mar 9 18:59:23 2026 +0800|Bump version to 0.12.6
+1002c41|timsaya|Mon Mar 9 18:58:25 2026 +0800|Add i18n for connection flows and neighbor flush settings
+91cc08a|timsaya|Mon Mar 9 18:11:19 2026 +0800|feat: display uplink and WiFi band badges in device info
+68d4f96|timsaya|Mon Mar 9 16:18:08 2026 +0800|Add connection flows modal and adapt to Bandix API
+01fc77d|timsaya|Thu Mar 5 23:35:26 2026 +0800|Update index-1 screenshot image
+86a05e6|timsaya|Mon Mar 2 14:20:32 2026 +0800|Remove Indonesian and Thai locale files
+b59a9e1|timsaya|Mon Mar 2 14:13:36 2026 +0800|Translate FR and RU locale files: replace Chinese with French and Russian
+a0e94cf|timsaya|Sun Mar 1 23:59:06 2026 +0800|v0.12.5: add delete device button and exclude interface device option
+3213930|root|Sat Feb 28 15:44:05 2026 +0800|ci: use ubuntu-24.04 instead of ubuntu-latest for workflow runners
+</details>

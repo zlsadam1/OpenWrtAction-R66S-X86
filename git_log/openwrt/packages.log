@@ -2,6 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-33e3f9196|Stan Grishin|Wed Feb 25 02:31:00 2026 +0000|pbr: update to 1.2.2-r6
-824b0e3a6|Stan Grishin|Tue Feb 24 20:56:38 2026 +0000|adblock-fast: update to 1.2.2-r6
+6f585a2b7|Wesley Gimenes|Tue Feb 17 03:21:11 2026 -0300|netbird: update to 0.66.2, patch for Go 1.26 build
+ad831e7f8|Wesley Gimenes|Tue Feb 17 02:45:20 2026 -0300|netbird: update to 0.61.2 (breaking change)
+9540cbb2c|Wesley Gimenes|Tue Feb 17 04:04:06 2026 -0300|netbird: move state file to reduce storage wear
+a47a1fd5e|Chester A. Unal|Thu Mar 5 22:17:00 2026 +0200|bsbf-autoconf-dhcp: switch to wan_$DEVICENAME naming scheme
+aa151fd3b|Chester A. Unal|Thu Mar 5 18:54:20 2026 +0200|bsbf-autoconf-cellular: set device option for network
+66eb63373|Stan Grishin|Sun Mar 8 01:13:52 2026 +0000|pbr: update to 1.2.2-r10
+16ef7e4ec|Stan Grishin|Sat Mar 7 19:15:03 2026 +0000|adblock-fast: update to 1.2.2-r10
+ab3db0519|Dirk Brenken|Sun Mar 8 18:50:46 2026 +0100|adblock: update 4.5.2‑3
+f9c6661a7|Dirk Brenken|Thu Mar 5 21:03:45 2026 +0100|adblock: update 4.5.2‑2
+c52a949eb|Norman Gehrsitz|Wed Dec 31 03:02:10 2025 +0100|acme-acme.sh: support --cert-profile option
+8898f78be|Chester A. Unal|Tue Mar 3 12:28:56 2026 +0200|bsbf-resources: update to GIT HEAD of 2026-03-03
+a63a350e1|Chester A. Unal|Tue Mar 3 12:19:17 2026 +0200|bsbf-autoconf-cellular: add
+96ae116ff|Chester A. Unal|Mon Mar 2 12:35:25 2026 +0200|bsbf-openwrt-resources: add
+2f9538d9d|Stan Grishin|Tue Mar 3 18:43:59 2026 +0000|adblock-fast: update to 1.2.2-r8
+6f610724a|Chester A. Unal|Thu Feb 26 10:48:04 2026 +0200|bsbf-bonding: add
+
+.....................
+
 </details>

@@ -2,21 +2,21 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-791c94e81b|Tianling Shen|Fri Feb 27 11:42:47 2026 +0800|target: fix wpad variant selection
-94d4570a6d|Tianling Shen|Fri Feb 27 11:53:08 2026 +0800|ath79/ramips: switch to full feature wpad-openssl by default
-088bc324d9|Tianling Shen|Fri Feb 27 11:47:26 2026 +0800|Merge Official Source
-224c99bad7|Hauke Mehrtens|Wed Feb 25 01:26:02 2026 +0100|mac80211: activate BRCMFMAC_SDIO on x86
-aeebbead6f|Hauke Mehrtens|Thu Feb 26 00:41:11 2026 +0100|wifi-scripts: fix handling of 64 character WPA key
-be5b8605ab|Hauke Mehrtens|Wed Feb 25 22:42:56 2026 +0100|ramips: mt7621: fix network configuration
-fa0719f74d|Daniel Golle|Tue Feb 17 15:26:18 2026 +0000|procd: update to git HEAD
-9feea22706|Daniel Golle|Mon Feb 9 11:47:39 2026 +0000|procd: update to git HEAD
-8b50f6c215|Chester A. Unal|Mon Jan 5 14:54:42 2026 +0200|ramips: mt7621: enable kmod-usb3 for Mikrotik RBM33G
-2e40f4cf73|Felix Fietkau|Thu Feb 26 12:10:02 2026 +0000|netifd: update to Git openwrt-25.12 (2026-02-26)
-a5f6a7b5d4|Daniel Golle|Fri Feb 20 14:49:02 2026 +0000|Revert "package: kernel: dtc: Add DTO support"
-cdc92ce560|Sander Vanheule|Sat Feb 21 15:00:39 2026 +0100|realtek: hog the GS1900-24E external IC reset line
-82dbd32e13|Sander Vanheule|Sat Feb 21 14:44:23 2026 +0100|realtek: rtl838x: drop GS1900 MDIO reset GPIO
-99c0c36027|Tim Harvey|Thu Feb 19 17:01:48 2026 -0800|imx: cortexa53: remove KSZ9477 static driver
-5f9f0f12a5|Tim Harvey|Thu Feb 19 16:57:29 2026 -0800|kernel: netdevices: add KSZ9477 DSA switch packages
+64b0742cd2|Tianling Shen|Mon Mar 9 14:18:28 2026 +0800|ramips: disable build for genexis pulse-ex400 by default
+a373f17011|Tianling Shen|Sun Mar 8 16:19:44 2026 +0800|Merge Official Source
+65041d9860|Álvaro Fernández Rojas|Sat Mar 7 15:54:29 2026 +0100|omcproxy: update to Git HEAD (2026-03-07)
+52f5481c3b|Jonas Gorski|Wed Jan 14 20:19:30 2026 +0100|build: use STAGING_DIR for special APK package versions
+241628ab3c|Álvaro Fernández Rojas|Thu Mar 5 14:13:55 2026 +0100|kernel: net: sfp: improve Huawei MA5671a fixup
+2eff59daf3|Valent Turkovic|Tue Mar 3 22:18:52 2026 +0100|ipq40xx: re-enable MeshPoint.One target
+274f6e5ab8|Rosen Penev|Wed Feb 18 17:57:22 2026 -0800|treewide: linksys: use nvmem MAC for hw_mac_addr
+1ec817beea|Rosen Penev|Sun Dec 7 18:11:02 2025 -0800|lantiq: add missing WAN MAC override
+360b1c8d11|Felix Fietkau|Thu Mar 5 17:12:09 2026 +0000|mac80211: fix a crash triggered by CSA with AP VLAN enabled
+e819e6dc31|Tianling Shen|Thu Mar 5 17:04:45 2026 +0800|Merge Official Source
+c2fe6ca16d|Hauke Mehrtens|Tue Mar 3 01:16:20 2026 +0100|OpenWrt v25.12.0: revert to branch defaults
+4da53efc2f|Hauke Mehrtens|Tue Mar 3 01:16:17 2026 +0100|OpenWrt v25.12.0: adjust config defaults
+f919e7899d|Hauke Mehrtens|Thu Feb 26 00:02:11 2026 +0100|base-files: honoring Dave Täht with the OpenWrt 25.12
+7f8b273074|Robert Marko|Mon Mar 2 18:05:45 2026 +0100|Revert "imx: cortexa53: remove KSZ9477 static driver"
+3f5382c239|Robert Marko|Mon Mar 2 18:05:55 2026 +0100|Revert "kernel: netdevices: add KSZ9477 DSA switch packages"
 
 .....................
 

@@ -1,0 +1,8 @@
+<details> <summary> <b>openwrt-bandix new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+19e4f74|timsaya|Mon Mar 9 18:34:48 2026 +0800|Upgrade to bandix 0.12.7 and add traffic neighbor flush options
+ac27750|timsaya|Sun Mar 1 23:40:09 2026 +0800|add traffic_exclude_iface_device option and bump to 0.12.6
+6ca6e6a|root|Sat Feb 28 15:37:18 2026 +0800|Use ubuntu-24.04 for CI and zoneinfo-core for smaller package size
+</details>

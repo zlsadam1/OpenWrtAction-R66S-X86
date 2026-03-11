@@ -1,0 +1,10 @@
+<details> <summary> <b>OpenWrt-nikki new commit log :rocket: </b> </summary>
+
+SHA|Author|Date|Message
+-|-|-|-
+26f3547|Joseph Mory|Wed Mar 4 18:28:35 2026 +0800|ci: add support for following architectures
+980cc7d|Joseph Mory|Mon Mar 2 11:32:01 2026 +0800|chore: bump version to 1.25.2
+8ad0b2c|Joseph Mory|Sat Feb 28 14:21:53 2026 +0800|fix: also disable `auto-route/auto-redirect/auto-detect-interface` of `tun` `listeners`
+8713fd4|Joseph Mory|Fri Feb 27 16:48:40 2026 +0800|chore: cleanup code
+e82840b|Joseph Mory|Fri Feb 27 16:25:37 2026 +0800|fix: typo
+</details>

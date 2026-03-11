@@ -2,5 +2,22 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-a30e4b9|A-BO|Fri Feb 27 14:08:05 2026 +0800|luci: optimize and fix tuic of sing-box
+1cb8e13|A-BO|Tue Mar 10 21:51:28 2026 +0800|luci: optimize xhttp_extra and finalmask for xray
+f4e3444|lwb1978|Mon Mar 9 00:06:02 2026 +0800|luci: optimize Geo file generation rule logic
+34622c3|A-BO|Sun Mar 8 15:42:27 2026 +0800|luci: Adapt to finalmask `quicParams` of xray
+d168362|A-BO|Sun Mar 8 15:38:58 2026 +0800|luci: fix
+82593cf|A-BO|Sun Mar 8 10:46:44 2026 +0800|luci: Fix subscription update failure with gzipped responses
+00aa6f1|lwb1978|Sat Mar 7 12:57:33 2026 +0800|luci: adjust connection observatory of xray
+6c45f65|lwb1978|Fri Mar 6 20:46:12 2026 +0800|luci: 26.3.6
+4df51dd|lwb1978|Fri Mar 6 20:39:52 2026 +0800|luci: refactor the logic of node icmp/tcping test
+4947893|A-BO|Fri Mar 6 12:55:27 2026 +0800|luci: Sing-Box add DNS over HTTP3 (DoH3) support
+c426511|A-BO|Fri Mar 6 11:02:12 2026 +0800|luci: Sing-Box DoH supports configuring boot IP
+4520d0d|A-BO|Thu Mar 5 23:54:42 2026 +0800|luci: refactor the logic of node url test
+69346de|A-BO|Thu Mar 5 13:17:24 2026 +0800|luci: optimize
+f4f7f2b|A-BO|Thu Mar 5 09:47:27 2026 +0800|luci: fixup
+23e24a3|A-BO|Wed Mar 4 18:12:34 2026 +0800|luci: optimize
+20e6afd|A-BO|Wed Mar 4 17:01:04 2026 +0800|luci: optimize Sing-Box config
+
+.....................
+
 </details>
