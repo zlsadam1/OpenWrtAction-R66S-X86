@@ -1,25 +1,19 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. (03b3a44d082e462e27b83f47a76a6afb1f9c6d49...26ad297facc43e00c9b300758b382d570b763512)](https://github.com/coolsnowwolf/luci/compare/03b3a44d082e462e27b83f47a76a6afb1f9c6d49...26ad297facc43e00c9b300758b382d570b763512)  
+#### [:mega: Full Changelog. (26ad297facc43e00c9b300758b382d570b763512...28190ed6720bcd958930ff811e0997635519d9a8)](https://github.com/coolsnowwolf/luci/compare/26ad297facc43e00c9b300758b382d570b763512...28190ed6720bcd958930ff811e0997635519d9a8)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-26ad297fac|coolsnowwolf|Tue Apr 21 09:58:35 2026 +0800|csstidy: Fix PKG_MIRROR_HASH for .xz change
-e4a0609edb|coolsnowwolf|Mon Apr 20 22:30:20 2026 +0800|luci-mod-status: add startOverviewRefresh cache
-fe397283a9|Internet1235|Mon Apr 20 21:12:26 2026 +0800|luci-app-qiyougamebooster: add package (#390)
-88719d5a27|coolsnowwolf|Sat Apr 18 23:21:33 2026 +0800|luci-mod-network: add qcawifi advance settings
-c873e6ec19|coolsnowwolf|Sat Apr 18 22:48:00 2026 +0800|luci-mod-status: display revision in system.js
-1348a0f96d|coolsnowwolf|Sat Apr 18 21:54:41 2026 +0800|luci-mod-network: add more 160Mhz channhel in list
-d996959852|Internet1235|Sat Apr 18 20:47:07 2026 +0800|luci-app-uugamebooster: add package (#388)
-9ac6022c8c|coolsnowwolf|Sat Apr 18 17:03:46 2026 +0800|luci-app-turboacc: add qca nss ecm option
-4663354c53|coolsnowwolf|Sat Apr 18 16:27:20 2026 +0800|luci-app-openvpn-server: move default config to uci-defaults
-fe66c7bd52|coolsnowwolf|Sat Apr 18 16:00:24 2026 +0800|luci-app-firewall: fix recursive dependency with fw3/fw4
-cbadf3d624|coolsnowwolf|Sat Apr 18 15:58:36 2026 +0800|zram-swap: add option to set zram enable/disable
-a8f56dcca0|coolsnowwolf|Sat Apr 18 15:40:03 2026 +0800|luci-app-upnp: fix upnp status working with iptables
-12c3065628|coolsnowwolf|Sat Apr 18 15:29:17 2026 +0800|luci-app-openvpn-server: make editableList for openvpn option
-a10ad2c934|coolsnowwolf|Sat Apr 18 15:16:14 2026 +0800|luci-app-openvpn-server: switch to js 25.12 style
-bf8bdc9c2d|coolsnowwolf|Sat Apr 18 14:45:41 2026 +0800|luci-mod-network: add weak signal rejection option for qcawifi
-
-
+28190ed672|coolsnowwolf|Thu Apr 23 22:32:36 2026 +0800|luci-app-vlmcsd: add running status view
+49fdae7bbe|coolsnowwolf|Thu Apr 23 15:24:25 2026 +0800|luci-app-onekeyap: add luci for one-click AP mode switching
+7a292c5b8f|coolsnowwolf|Thu Apr 23 14:43:45 2026 +0800|luci-app-repeater: luci app for Wi-Fi repeater and uplink configuration
+32d6ffba18|coolsnowwolf|Thu Apr 23 13:16:55 2026 +0800|luci-app-turboacc: add mtk wed config support
+4a3381646d|coolsnowwolf|Thu Apr 23 12:03:43 2026 +0800|luci-mod-network: add support for force 40MHz in dbdc mode
+20cb6a03cd|coolsnowwolf|Wed Apr 22 17:11:51 2026 +0800|luci-mod-network: keep auto channel available for qca radios
+83bbcbc714|coolsnowwolf|Wed Apr 22 10:26:48 2026 +0800|luci-app-lucky: add luci package for Lucky
+4b1446184a|coolsnowwolf|Tue Apr 21 22:24:08 2026 +0800|luci-app-openvpn-server: fix renewcert and ensurecert
+982ec0121a|coolsnowwolf|Tue Apr 21 21:18:14 2026 +0800|luci-mod-network: getLegacyIwinfoProbeTargets from iwinfo instead of hardcoding them
+ac599c66f0|coolsnowwolf|Tue Apr 21 20:33:44 2026 +0800|luci-mod-system: skip_running_check by default for startup web page
+0f99fcba66|coolsnowwolf|Tue Apr 21 15:14:10 2026 +0800|luci-app-turboacc: adapt to qca nss ecm
 </details>

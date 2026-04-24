@@ -1,12 +1,10 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. (485787b87b7d5b9e1370bc524208f58f7852a15f...3b7a68e5865f01c8e8aeead9d32f8d9911d968ea)](https://github.com/openwrt/luci/compare/485787b87b7d5b9e1370bc524208f58f7852a15f...3b7a68e5865f01c8e8aeead9d32f8d9911d968ea)  
+#### [:mega: Full Changelog. (3b7a68e5865f01c8e8aeead9d32f8d9911d968ea...8405d22670ed709c8e108db95e1b5a8906de0046)](https://github.com/openwrt/luci/compare/3b7a68e5865f01c8e8aeead9d32f8d9911d968ea...8405d22670ed709c8e108db95e1b5a8906de0046)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-3b7a68e586|Paul Donald|Mon Apr 20 14:45:56 2026 +0200|luci-mod: use built-in format for wifi hostname
-66d3e55713|Daniel F. Dickinson|Sun Apr 12 09:53:21 2026 -0400|luci-app-radicale3: updates for Radicale 3.7.1
-4c5b5ef484|Dirk Brenken|Sat Apr 18 19:11:08 2026 +0200|luci-app-banip: update 1.8.6-2
-5109d24a27|Dirk Brenken|Fri Apr 17 09:59:11 2026 +0200|luci-app-adblock: release 4.5.5-1
+8405d22670|Stan Grishin|Tue Apr 21 19:15:33 2026 +0000|luci-app-pbr: update to 1.2.2-r14
+92945206b5|Michael Pfeifroth|Wed Apr 22 15:49:58 2026 +0200|luci-app-mwan3: fix missing translation call for Weight label
 </details>
