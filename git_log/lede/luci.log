@@ -1,19 +1,17 @@
 <details> <summary> <b>luci new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. (26ad297facc43e00c9b300758b382d570b763512...28190ed6720bcd958930ff811e0997635519d9a8)](https://github.com/coolsnowwolf/luci/compare/26ad297facc43e00c9b300758b382d570b763512...28190ed6720bcd958930ff811e0997635519d9a8)  
+#### [:mega: Full Changelog. (28190ed6720bcd958930ff811e0997635519d9a8...e70cf73f46e6fc204e7defe2a79c2c7c184ed0c7)](https://github.com/coolsnowwolf/luci/compare/28190ed6720bcd958930ff811e0997635519d9a8...e70cf73f46e6fc204e7defe2a79c2c7c184ed0c7)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-28190ed672|coolsnowwolf|Thu Apr 23 22:32:36 2026 +0800|luci-app-vlmcsd: add running status view
-49fdae7bbe|coolsnowwolf|Thu Apr 23 15:24:25 2026 +0800|luci-app-onekeyap: add luci for one-click AP mode switching
-7a292c5b8f|coolsnowwolf|Thu Apr 23 14:43:45 2026 +0800|luci-app-repeater: luci app for Wi-Fi repeater and uplink configuration
-32d6ffba18|coolsnowwolf|Thu Apr 23 13:16:55 2026 +0800|luci-app-turboacc: add mtk wed config support
-4a3381646d|coolsnowwolf|Thu Apr 23 12:03:43 2026 +0800|luci-mod-network: add support for force 40MHz in dbdc mode
-20cb6a03cd|coolsnowwolf|Wed Apr 22 17:11:51 2026 +0800|luci-mod-network: keep auto channel available for qca radios
-83bbcbc714|coolsnowwolf|Wed Apr 22 10:26:48 2026 +0800|luci-app-lucky: add luci package for Lucky
-4b1446184a|coolsnowwolf|Tue Apr 21 22:24:08 2026 +0800|luci-app-openvpn-server: fix renewcert and ensurecert
-982ec0121a|coolsnowwolf|Tue Apr 21 21:18:14 2026 +0800|luci-mod-network: getLegacyIwinfoProbeTargets from iwinfo instead of hardcoding them
-ac599c66f0|coolsnowwolf|Tue Apr 21 20:33:44 2026 +0800|luci-mod-system: skip_running_check by default for startup web page
-0f99fcba66|coolsnowwolf|Tue Apr 21 15:14:10 2026 +0800|luci-app-turboacc: adapt to qca nss ecm
+e70cf73f46|coolsnowwolf|Tue Apr 28 10:45:13 2026 +0800|luci-mod-network: fix wiphy radios BE mode detection
+513563c1de|coolsnowwolf|Mon Apr 27 23:51:21 2026 +0800|luci: fix qcawifi 6ghz and eht320 handling
+4a1bdcb04f|coolsnowwolf|Mon Apr 27 15:28:06 2026 +0800|luci-mod-network: fix jsmin compatibility
+0668fb055d|coolsnowwolf|Sun Apr 26 03:08:17 2026 +0800|luci-mod-network: fix auto channel info for qcawifi
+c388cb5544|coolsnowwolf|Sun Apr 26 02:25:24 2026 +0800|luci-mod-network: add wireless offload with PPE option
+8679a164f5|coolsnowwolf|Sun Apr 26 01:03:02 2026 +0800|luci-mod-network: add BE 6G 320Mhz Width
+1fed1016b9|coolsnowwolf|Sat Apr 25 12:08:11 2026 +0800|luci-mod-network: reserve qcawifi BE mode when current select AX mode
+6fc70a4129|coolsnowwolf|Sat Apr 25 10:06:49 2026 +0800|luci-base: wizard pending for quickstart
+0ab227c769|coolsnowwolf|Fri Apr 24 13:54:50 2026 +0800|luci-app-eqos: add nss hw qos support
 </details>
