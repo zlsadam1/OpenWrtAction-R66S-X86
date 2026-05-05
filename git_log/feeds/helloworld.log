@@ -1,11 +1,25 @@
 <details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. (e1541f849f007b63f40db4bf23d1c7972ca7a007...820f465b9922519912e479c8161c22e122377821)](https://github.com/fw876/helloworld/compare/e1541f849f007b63f40db4bf23d1c7972ca7a007...820f465b9922519912e479c8161c22e122377821)  
+#### [:mega: Full Changelog. (820f465b9922519912e479c8161c22e122377821...f98f427f748b30a2c2c15755d7689406e0c8578b)](https://github.com/fw876/helloworld/compare/820f465b9922519912e479c8161c22e122377821...f98f427f748b30a2c2c15755d7689406e0c8578b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-820f465|zxl hhyccc|Tue Apr 28 23:49:05 2026 +0800|luci-app-ssr-plus: Fix the issue with Xray generating configuration.
-09e555a|zxl hhyccc|Tue Apr 28 20:46:33 2026 +0800|Merge pull request #1941 from zxlhhyccc/tuic
-660ee83|zxlhhyccc|Mon Apr 27 21:52:23 2026 +0800|luci-app-ssr-plus: improve curl success handling in subscribe_update.
+f98f427|coolsnowwolf|Tue May 5 09:09:33 2026 +0800|luci-app-ssr-plus: add mihomo Shadowsocks plugin obfs/v2ray-plugin/gost-plugin/shadow-tls/restls/kcptun support
+1246198|coolsnowwolf|Tue May 5 08:08:57 2026 +0800|luci-app-ssr-plus: add server nodes table list pageable and sortable function
+003e868|coolsnowwolf|Tue May 5 07:34:45 2026 +0800|luci-app-ssr-plus: improve the dns server fallback logic
+e332df7|coolsnowwolf|Mon May 4 22:06:17 2026 +0800|luci-app-ssr-plus: add lyaml dependency as essential for YAML parsing
+4185454|coolsnowwolf|Mon May 4 21:13:41 2026 +0800|luci-app-ssr-plus: restore Game Mode for lan clients
+45bf4c3|coolsnowwolf|Mon May 4 21:02:10 2026 +0800|luci-app-ssr-plus: store mihomo client rules in separate csv file
+53139d4|coolsnowwolf|Mon May 4 20:26:25 2026 +0800|luci-app-ssr-plus: check valid custom policies rules when import to yaml
+d7a1db7|coolsnowwolf|Mon May 4 20:14:36 2026 +0800|luci-app-ssr-plus: prefer ss-rust than mihomo with ss protocol
+aa074b8|coolsnowwolf|Mon May 4 19:40:33 2026 +0800|luci-app-ssr-plus: add save button for subscribe url tables
+26909fc|coolsnowwolf|Mon May 4 18:46:51 2026 +0800|Revert "luci-app-ssr-plus: move ss rust with Obfs / V2ray Plugin / Shadow_TLS and Kcptun to Mihomo Support"
+90475e5|coolsnowwolf|Mon May 4 17:29:36 2026 +0800|luci-app-ssr-plus: add subscribe selection auto-save option
+996fe48|coolsnowwolf|Mon May 4 16:59:55 2026 +0800|luci-app-ssr-plus: revert per subscribe URL update functional
+cce4700|coolsnowwolf|Mon May 4 13:36:40 2026 +0800|luci-app-ssr-plus: improve save subscribe button bahavior
+52e29c6|coolsnowwolf|Mon May 4 13:02:15 2026 +0800|luci-app-ssr-plus: update zh-cn translation
+facce9c|coolsnowwolf|Mon May 4 11:42:26 2026 +0800|luci-app-ssr-plus: install with csstidy and jsmini
+
+
 </details>
