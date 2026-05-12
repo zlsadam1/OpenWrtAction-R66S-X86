@@ -1,20 +1,14 @@
 <details> <summary> <b>helloworld new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. (f98f427f748b30a2c2c15755d7689406e0c8578b...9a4d1ff9f5ac146142b0a6d4b49ad00cf6e13da8)](https://github.com/fw876/helloworld/compare/f98f427f748b30a2c2c15755d7689406e0c8578b...9a4d1ff9f5ac146142b0a6d4b49ad00cf6e13da8)  
+#### [:mega: Full Changelog. (9a4d1ff9f5ac146142b0a6d4b49ad00cf6e13da8...54e08d79ed86760bcccd2410ee991917916c098f)](https://github.com/fw876/helloworld/compare/9a4d1ff9f5ac146142b0a6d4b49ad00cf6e13da8...54e08d79ed86760bcccd2410ee991917916c098f)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-9a4d1ff|coolsnowwolf|Thu May 7 11:04:48 2026 +0800|xray-core: update to 26.5.3
-556ed58|coolsnowwolf|Tue May 5 23:13:54 2026 +0800|luci-app-ssr-plus: monitor mihomo ss servers by sid
-51c4351|coolsnowwolf|Tue May 5 20:42:33 2026 +0800|luci-app-ssr-plus: fix first_type candidate to find path
-6243bff|coolsnowwolf|Tue May 5 14:15:06 2026 +0800|luci-app-ssr-plus: improve subscribe through proxy update process
-1209770|coolsnowwolf|Tue May 5 13:34:34 2026 +0800|luci-app-ssr-plus: replace xray-core ss mode with mihomo ss mode with obfs
-38a6aca|coolsnowwolf|Tue May 5 13:16:14 2026 +0800|luci-app-ssr-plus: using mihomo ss mode as fallback when ss rust clinet not exist
-ebeef37|coolsnowwolf|Tue May 5 13:06:47 2026 +0800|luci-app-ssr-plus: check geoip and geosite data files at multiple locations
-eb2e401|coolsnowwolf|Tue May 5 12:50:29 2026 +0800|Revert "luci-app-ssr-plus: remove ChinaDNS NG support"
-65ccfe2|coolsnowwolf|Tue May 5 12:38:14 2026 +0800|luci-app-ssr-plus: trigger reload after pppoe wan up
-256a843|coolsnowwolf|Tue May 5 12:28:48 2026 +0800|luci-app-ssr-plus: display active node running type in status
-4716ff2|coolsnowwolf|Tue May 5 12:03:11 2026 +0800|luci-app-ssr-plus: uniform check_status function
-03eef86|coolsnowwolf|Tue May 5 11:49:12 2026 +0800|luci-app-ssr-plus: improve ssr-switch monitoring logic
+54e08d7|zxl hhyccc|Mon May 11 21:19:57 2026 +0800|luci-app-ssr-plus: Fix socks5 running status.
+8277037|zxl hhyccc|Mon May 11 20:29:14 2026 +0800|Merge pull request #1948 from zxlhhyccc/path
+a5aa86f|zxlhhyccc|Sun May 10 00:52:41 2026 +0800|[dev] luci-app-ssr-plus: Fix drag failure issue when pagination.
+948dab4|coolsnowwolf|Sat May 9 16:18:36 2026 +0800|luci-app-ssr-plus: select default ChinaDNS-NG dns server for domestic and foreign
+57c7c3e|coolsnowwolf|Sat May 9 16:00:51 2026 +0800|luci-app-ssr-plus: add multi thread running mode for ipt2socks socks5 mode
+79e3059|coolsnowwolf|Sat May 9 00:23:10 2026 +0800|luci-app-ssr-plus: fix node drag reorder in pageable mode
 </details>
